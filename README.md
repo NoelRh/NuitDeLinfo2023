@@ -5,8 +5,8 @@ Application Web sur le thème de l'environnement
 
 Défis :
 
-- Last Xmas
-- Keycloakc
-- Ou est Charlie
+- Last XMas
+- Keycloak permission management
+- Où est Charlie ?
 - Accessibilité
-- Esport easterEgg
+- e[sport]aster egg
