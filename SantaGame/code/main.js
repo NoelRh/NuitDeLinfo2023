@@ -631,7 +631,7 @@ function areAllLightsOff() {
 
 player.onCollide("interupt", () => 
 	{
-		dialog.text = "ntm";
+		dialog.text = "protege l'environnement !!";
 	});
 
   player.onCollide("character", (ch) => {
